@@ -1,0 +1,5 @@
+[build]
+  Command = "npm Run Build"
+  Publish="/build"
+  Base = ""
+
